@@ -75,7 +75,10 @@ h2, h1 {
 .tarif {
   display: block;
   text-align: center;
-  color: dimgray;    
+  color: dimgray;
+   color: whitesmoke;
+  font-family: Smooch Sans, sans-serif;
+  font-size: large; 
 }
 
 .mariage {
